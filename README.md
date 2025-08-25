@@ -26,7 +26,6 @@
 <!-- [![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Aditi432)](https://leetcode.com/Aditi432)</p> -->
 </div>
 
-<br>
 <h1 align="left">Connect with me:</h1>
 <div align="center">
   <a href="https://linkedin.com/in/aditi-mondal-367916235" target="_blank">
