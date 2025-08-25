@@ -1,9 +1,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <h3 align="left">My name is Aditi Mondal and I'm a Web Developer.</h3>  
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <br>
-<p style="front-size:40px;">About me </p>
+<h1>About me </h1>
 
 - 🌱  Creating bugs since **2021**.
 - 💬  I’m currently learning **MERN Stack Development**.
