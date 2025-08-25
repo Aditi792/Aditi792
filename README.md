@@ -72,8 +72,7 @@
 </div>
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi792&show_icons=true&locale=en&layout=compact" alt="aditi792" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi792&show_icons=true&locale=en" alt="aditi792" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi792&show_icons=true&locale=en&layout=compact" alt="aditi792" /></p>
 </div>
 <h1 align="center">Hey 👋What's Up?</h1>
 
@@ -88,8 +87,8 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditi792/aditi792/output/github-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditi792/aditi792/output/github-pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditi792/aditi792/github-pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditi792/aditi792/github-pacman.svg" />
   <img alt="Pac-Man" src="https://raw.githubusercontent.com/aditi792/aditi792/output/github-pacman.svg" />
 </picture>
 ###
