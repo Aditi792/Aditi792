@@ -91,8 +91,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditi792/aditi792/output/github-pacman.svg" />
   <img alt="Pac-Man" src="https://raw.githubusercontent.com/aditi792/aditi792/output/github-pacman.svg" />
 </picture>
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
