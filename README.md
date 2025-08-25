@@ -11,9 +11,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<p align="left">My name is Aditi Mondal and I'm a Web Developer</p>
-
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <p align="left">My name is Aditi Mondal and I'm a Web Developer</p>
 ###
 
 <h2 align="left">About me</h2>
@@ -26,6 +26,11 @@
 - 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **aditimondalgc@gmail.com**
+  </div>
+  <div style="flex: 1; text-align: right;">
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="a developer thinking while working on their laptop" width="200"/>
+</div>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -44,7 +49,7 @@
   <a href="https://linkedin.com/in/aditi-mondal-367916235" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/Aditi432" target="_blank">
+  <a href="https://leetcode.com/aditimondal7" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/aditimondal792" target="_blank">
