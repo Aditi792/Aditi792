@@ -12,21 +12,19 @@
   
 <p align="left">My name is Aditi Mondal and I'm a Web Developer</p>
    
-<h2 align="left">About me</h2>
- 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-<div style="flex: 1;">    
-- ✨ Creating bugs since **2021**
-
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 💬 Ask me about **frontend development**
-
-- 📫 How to reach me **aditimondalgc@gmail.com**
-</div>
-<div style="flex: 1; text-align: right;">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="a developer           thinking while working on their laptop" width="200"/>
-</div>
+  <div>
+    <h2 align="left">About me</h2>
+    <ul>
+      <li>✨ Creating bugs since **2021**</li>
+      <li>🌱 I’m currently learning **MERN Stack Development**</li>
+      <li>💬 Ask me about **frontend development**</li>
+      <li>📫 How to reach me **aditimondalgc@gmail.com**</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="a developer thinking while working on their laptop" width="200"/>
+  </div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
