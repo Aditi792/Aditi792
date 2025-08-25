@@ -9,12 +9,10 @@
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hey 👋 What's up?</h1>
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    
+  
 <p align="left">My name is Aditi Mondal and I'm a Web Developer</p>
-    
+<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="flex: 1;">    
 <h2 align="left">About me</h2>
     
 - ✨ Creating bugs since **2021**
