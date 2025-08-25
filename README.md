@@ -79,13 +79,13 @@
   <a href="https://linkedin.com/in/aditi-mondal-367916235" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/Aditi485" target="_blank">
+  <a href="https://leetcode.com/Aditi432" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/aditimondal792" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-28A944?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-  <a href="https://www.instagram.com/aditimondal9" target="_blank">
+  <a href="https://www.instagram.com/aditimondal6" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="aditimondalgc@gmail.com" target="_blank">
