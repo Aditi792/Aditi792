@@ -73,6 +73,7 @@
 <br>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi792&show_icons=true&locale=en&layout=compact" alt="aditi792" /></p>
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Aditi432)](https://leetcode.com/Aditi432)</p>
 </div>
 <h1 align="center">Hey 👋What's Up?</h1>
 
