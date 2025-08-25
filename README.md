@@ -6,17 +6,15 @@
 <h1>About me </h1>
 <br>
 
-- 💡  I love solving problems and turning ideas into a reality through code.
+- 💡  I love solving problems and turning **ideas** into a reality through code.
 - 🌱  Creating bugs since **2021**.
 - 💬  I’m currently learning **MERN Stack Development**.
 - 📫  Ask me about **Frontend Development**.
 - 📫  Reach me at **aditimondalgc@gmail.com**.
 
 <br>
-
-<h1 align="center">Languages and Tools</h1>
-
 <br>
+<h1 align="center">Languages and Tools</h1>
 
 <br>
 
