@@ -1,13 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+ <h1 align="left">Hey 👋 What's up?</h1>
 <p align="left">My name is Aditi Mondal and I'm a Web Developer</p>  
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div align="left">
     <h2 align="left">About me</h2>
-- ✨ Creating bugs since **2021**
-- 🌱 I’m currently learning **MERN Stack Development**
-- 💬 Ask me about **Frontend Development**
-- 📫 Reach me at **aditimondalgc@gmail.com**
-    </ul>
+-  ✨ Creating bugs since **2021**
+-  🌱 I’m currently learning **MERN Stack Development**
+-  💬 Ask me about **Frontend Development**
+-  📫 Reach me at **aditimondalgc@gmail.com**
+
   </div>
   <div align="right">
     <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="a developer thinking while working on their laptop" width="200"/>
