@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <br>
-<h2 align="left">About me </h2>
+<p style="front-size:40px;">About me </p>
 
 - 🌱  Creating bugs since **2021**.
 - 💬  I’m currently learning **MERN Stack Development**.
