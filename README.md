@@ -10,26 +10,22 @@
 -->
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex;">
   <div style="flex: 1;">
     <p align="left">My name is Aditi Mondal and I'm a Web Developer</p>
-###
+    <h2 align="left">About me</h2>
 
-<h2 align="left">About me</h2>
+    - ✨ Creating bugs since **2021**
 
-###
-- ✨ Creating bugs since **2021**
+    - 🌱 I’m currently learning **MERN Stack Development**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+    - 💬 Ask me about **frontend development**
 
-- 💬 Ask me about **frontend development**
-
-- 📫 How to reach me **aditimondalgc@gmail.com**
+    - 📫 How to reach me **aditimondalgc@gmail.com**
   </div>
   <div style="flex: 1; text-align: right;">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="a developer thinking while working on their laptop" width="200"/>
-</div>
+    <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="a developer           thinking while working on their laptop" width="200"/>
+  </div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
