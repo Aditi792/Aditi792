@@ -19,10 +19,7 @@
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning MERN Developer</p>
-
-###
+- ✨ Creating bugs since **2021**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
@@ -40,9 +37,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi792&show_icons=true&locale=en&layout=compact" alt="aditi792" /></p>
 <!-- [![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Aditi432)](https://leetcode.com/Aditi432)</p> -->
 </div>
-<h1 align="center">Hey 👋What's Up?</h1>
 
-<h3 align="left">Connect with me:</h3>
+
+<h1 align="center">Connect with me:</h1>
 <div align="center">
   <a href="https://linkedin.com/in/aditi-mondal-367916235" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
