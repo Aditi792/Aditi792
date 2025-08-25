@@ -1,0 +1,21 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate LeetCode Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          LEETCODE_USERNAME: aditi792 # Replace with your LeetCode username
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
