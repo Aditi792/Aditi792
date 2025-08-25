@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **aditimondalgc@gmail.com**
+- 📫 Reach me at **aditimondalgc@gmail.com**
   </div>
   <div>
     <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="a developer thinking while working on their laptop" width="200"/>
