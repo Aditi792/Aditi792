@@ -13,8 +13,11 @@
 - 📫  Reach me at **aditimondalgc@gmail.com**.
 
 <br>
+
 <br>
+
 <br>
+
 <h1 align="center">Languages and Tools</h1>
 
 <br>
