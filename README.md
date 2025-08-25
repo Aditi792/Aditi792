@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <h3 align="left">My name is Aditi Mondal and I'm a Web Developer.</h3>  
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="coding" width="350" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYxMjcyMTYsIm5iZiI6MTc1NjEyNjkxNiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODI1VDEzMDE1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjNjNmN2Q3ODE4ODAwMDQ3NDg3NzM5ZWUyYjBjODJjMjdjMzcwYzUxYjA0YmNlNzFhOTNiNzg5MGY3ZjdjZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FaMaSj4jvuz3R8gTB6rtcVNLtGDAixXOPH-WAI6Udv4">
 <br>
 <h1>About me </h1>
 
