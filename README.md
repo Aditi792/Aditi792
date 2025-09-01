@@ -45,10 +45,3 @@
   </a>
 </div>
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditi792/aditi792/github-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditi792/aditi792/github-pacman.svg" />
-  <img alt="Pac-Man" src="https://raw.githubusercontent.com/aditi792/aditi792/output/github-pacman.svg" />
-</picture>
-###
